@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-default {
+    @apply border-2 text-sm font-semibold w-10 h-8 min-h-max min-w-fit rounded-md border-slate-500 text-slate-500 
+    cursor-pointer hover:bg-slate-900 hover:text-white transition-all duration-200 hover:shadow-lg;
+  }
+  .btn-active{
+    @apply bg-blue-500 hover:bg-blue-600 text-white border-slate-600 shadow-lg scale-105  mx-1
+  }
