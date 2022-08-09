@@ -2,3 +2,6 @@
 
 data fetched from [jsonplaceholder-todos](https://jsonplaceholder.typicode.com/todos)
 and is shown in table which implement with tailwind css and React library and redux (flux)
+#### Demo link:
+
+[paginate-with-redux](https://paginate-table.netlify.app/)
